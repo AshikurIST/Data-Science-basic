@@ -1,2 +1,1 @@
-# firstrepository
-# edit code in repository
+in this repo you will get all basic codes and operations for data science 
